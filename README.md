@@ -2,7 +2,7 @@
 
  To pull code from a GitHub repository and run it locally, follow these steps:
 
-Step1:- click the link github link https://github.com/Ankitgup45/first_Bench.ai
+Step1:- click the link github link https://github.com/Ankitgup45/full-stack-task-management-app.git
 
 Step2:-pull the project by coping the link from codes dropdownlist.
 
