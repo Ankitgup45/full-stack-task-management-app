@@ -10,6 +10,6 @@ Step3:- open vs code and click clone git repository. Paste the link and click en
 
 Step4:-select or create folder where the repository will store.
 
-Step5:- after opening the project .open new terminal and install dependencies 1. npm install , npm install react-icons
+Step5:- after opening the project .open new terminal and install dependencies 1. npm install.
 
 Step6:- run the file by typing :- npm start.
