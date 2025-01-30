@@ -1,8 +1,15 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ To pull code from a GitHub repository and run it locally, follow these steps:
 
-Currently, two official plugins are available:
+Step1:- click the link github link https://github.com/Ankitgup45/first_Bench.ai
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step2:-pull the project by coping the link from codes dropdownlist.
+
+Step3:- open vs code and click clone git repository. Paste the link and click enter.
+
+Step4:-select or create folder where the repository will store.
+
+Step5:- after opening the project .open new terminal and install dependencies 1. npm install , npm install react-icons
+
+Step6:- run the file by typing :- npm start.
